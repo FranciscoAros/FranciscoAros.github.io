@@ -1,0 +1,42 @@
+html {
+       font-size: 1em;
+     }
+
+body {
+  font:
+    1.2em Helvetica,
+    Arial,
+    sans-serif;
+  margin: 20px;
+  padding: 0;
+  background-color: #eee;
+}
+
+.wrapper {
+        max-width: 960px;
+        margin: 2em auto;
+      }
+
+      h1 {
+        font-size: 3rem;
+        margin: 0;
+      }
+
+      h2 {
+        font-size: 2rem;
+        margin: 0;
+      }
+
+.box {
+  background-color: #567895;
+}
+
+
+
+#bannerimage {
+  width: 100%;
+  background-image: url(banner_04.png);
+  background-repeat: no-repeat;
+  height: 200px;
+  background-position: center;
+}
